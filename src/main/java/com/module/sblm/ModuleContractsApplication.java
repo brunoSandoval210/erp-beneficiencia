@@ -8,7 +8,7 @@ public class ModuleContractsApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ModuleContractsApplication.class, args);
-        System.out.println("gianfranco kbro");
+        System.out.println("Arriba U");
     }
 
 }
